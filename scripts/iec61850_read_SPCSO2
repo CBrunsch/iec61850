@@ -1,0 +1,2 @@
+#! /bin/bash
+./iec61850_reader localhost WAGO61850ServerLogicalDevice/GGIO1.SPCSO2.Oper.ctlVal CO
